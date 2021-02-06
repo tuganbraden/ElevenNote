@@ -14,3 +14,9 @@ C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Servi
 C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
